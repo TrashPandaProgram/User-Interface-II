@@ -15,6 +15,7 @@ h1{
     font-family: 'Cinzel', serif;
     font-size: 300%;
     font-weight: bolder;
+    padding: 2% 0%;
 }
 
 .navigation{
@@ -28,7 +29,7 @@ a{
     text-decoration: none;
     background-color: white;
     color: black;
-    padding: 1% 11%;
+    padding: 1% 10.340%;
 }
 
 a:hover{
@@ -73,6 +74,6 @@ p{
 
 .projectsPreview{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 }
