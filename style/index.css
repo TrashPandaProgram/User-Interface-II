@@ -77,3 +77,15 @@ p{
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
+@media (max-width: 800px){
+
+.navigation{
+    
+}
+
+}
+
+@media (max-width: 500px){
+
+}
